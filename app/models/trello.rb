@@ -1,0 +1,2 @@
+class Trello < ApplicationRecord
+end
